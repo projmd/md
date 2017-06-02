@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">TimesNews</string>
+    <string name="iconDsc">Image</string>
+    <string name="action_settings">Sitting</string>
+    <string name="btnGoToLink">For more Details</string>
+
+    <string-array name="SideMenuItems">
+        <item>World</item>
+        <item>Global</item>
+        <item>Middle Eest</item>
+        <item>Articles</item>
+        <item>Reports</item>
+        <item>Videos</item>
+        <item>Images</item>
+    </string-array>
+
+
+</resources>
